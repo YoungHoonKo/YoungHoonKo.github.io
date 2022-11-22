@@ -1,7 +1,7 @@
 ---
 title: 01. Statistics Midterm Exam
-author: YoungHoon Ko
 date: 2022-10-24 11:33:00 +0900
+author: YoungHoon Ko
 categories: [University(2022-Second-Semester), Statistics]
 tags: [r, statistics, exam]
 image: /assets/img/2.3.png
