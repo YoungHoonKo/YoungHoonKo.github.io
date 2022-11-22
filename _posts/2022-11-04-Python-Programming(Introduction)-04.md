@@ -1,6 +1,6 @@
 ---
 title: 04. Python-Programming(Introduction)
-author: YoungHoon Ko
+Author: YoungHoon Ko
 date: 2022-11-04 14:40:11 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]
 tags: [python, introduction]

@@ -1,6 +1,6 @@
 ---
 title: 06. Introduction and practice of engineering computer
-author: YoungHoon Ko
+Author: YoungHoon Ko
 date: 2022-11-11 02:45:00 +0900
 categories: [University(2022-First-Semester), Introduction and practice of engineering computer]
 tags: [c, computer_engineering]

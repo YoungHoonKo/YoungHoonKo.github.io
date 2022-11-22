@@ -1,6 +1,6 @@
 ---
 title: 03. Statistics
-author: YoungHoon Ko
+Author: YoungHoon Ko
 date: 2022-10-24 11:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
 tags: [r, statistics]

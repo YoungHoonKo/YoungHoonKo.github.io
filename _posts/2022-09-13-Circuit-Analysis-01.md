@@ -1,6 +1,6 @@
 ---
 title: 01. Circuit Analysis
-author: YoungHoon Ko
+Author: YoungHoon Ko
 date: 2022-09-13 16:33:00 +0900
 categories: [University(2022-Second-Semester), Circuit Analysis]
 tags: [circuit_analysis, python]

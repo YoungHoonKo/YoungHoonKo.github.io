@@ -1,6 +1,6 @@
 ---
 title: How 2 use Typora
-author: YoungHoon Ko
+Author: YoungHoon Ko
 date: 2022-07-10 10:31:00 +0900
 categories: [Markdown, Md-Basics]
 tags: [markdown]

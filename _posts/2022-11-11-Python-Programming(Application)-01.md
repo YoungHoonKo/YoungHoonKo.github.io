@@ -1,6 +1,6 @@
 ---
 title: 01. Python-Programming(Application)
-author: YoungHoon Ko
+Author: YoungHoon Ko
 date: 2022-11-11 02:20:00 +0900
 categories: [University(2022-Second-Semester), Python-Programming(Application)]
 tags: [python, application]
