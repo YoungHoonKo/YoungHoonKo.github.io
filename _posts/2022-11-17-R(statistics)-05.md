@@ -9,9 +9,9 @@ image: /assets/img/boxplot2.png
 
 [toc]
 
-# C289002_고영훈 컴퓨터응용통계 보고서
+## 이표본 t-검정 보고서
 
-## 문제
+### 문제
 
 ```markdown
 R의 InsectSprays에서 B,F를 뿌릴 때, 죽는 벌레 수가 동일한지 검정하기 위하여,
@@ -19,13 +19,11 @@ R의 InsectSprays에서 B,F를 뿌릴 때, 죽는 벌레 수가 동일한지 검
 그림1은 자료의 상자도표이다.
 ```
 
-## boxplot
+### boxplot
 
 <img src="/assets/img/boxplot2.png" alt="이미지" style="zoom:50%;" />
 
-
-
-## 풀이
+### 풀이
 
 ```markdown
 두 스프레이를 뿌릴 때 죽은 평균 벌레수가 동일한지 알아보기위하여, 다음과 같이 가설을 세우자.
@@ -45,7 +43,7 @@ R의 InsectSprays에서 B,F를 뿌릴 때, 죽는 벌레 수가 동일한지 검
 즉, 유의수준 0.05에서 살충제 B와 F의 효과는 같다.
 ```
 
-## R코드
+### R코드
 
 ```R
 > x <- InsectSprays[InsectSprays$spray == 'B', "count"]
