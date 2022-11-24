@@ -1,5 +1,5 @@
 ---
-title: 06-2. Statistics
+title: 07. Statistics
 Author: YoungHoon Ko
 date: 2022-11-24 13:00:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
