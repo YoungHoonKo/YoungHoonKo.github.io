@@ -1,7 +1,7 @@
 ---
-title: 06-2. Statistics
+title: 07. Statistics
 Author: YoungHoon Ko
-date: 2022-11-24 12:33:00 +0900
+date: 2022-11-24 14:00:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
 tags: [r, statistics]
 image: /assets/img/문맹률과 기대수명에 대한 회귀분석표.png
