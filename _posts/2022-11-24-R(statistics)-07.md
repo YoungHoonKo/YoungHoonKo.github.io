@@ -1,7 +1,7 @@
 ---
 title: 07. Statistics
 Author: YoungHoon Ko
-date: 2022-11-24 13:00:00 +0900
+date: 2022-11-24 13:07:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
 tags: [r, statistics]
 image: /assets/img/문맹률과 기대수명에 대한 회귀분석표.png
@@ -18,17 +18,6 @@ image: /assets/img/문맹률과 기대수명에 대한 회귀분석표.png
 ```markdown
 (1)-(2) 문맹이 수명에 미치는 영향을 알아보기 위하여, 미국 50 개 주의 문맹률 % (1970년)과 기대수명 (세)(1969–71년)을 조사하 였다.
 (자료: state.x77 in R, U.S. Department of Commerce, Bureau of the Census (1977)) 단순회귀분석을 실시하여 아래의 표2과 표3를 얻었다.
-```
-
-### 코드
-
-```R
-mydata<-data.frame(state.x77)
-fit <-lm(mydata$Life.Exp ~ mydata$Illiteracy)
-anova(fit)
-summary(fit)
-plot(mydata$Illiteracy, mydata$Life.Exp, xlab=”illiteracy rate %”, ylab=”Life expectancy”)
-abline(fit)
 ```
 
 
