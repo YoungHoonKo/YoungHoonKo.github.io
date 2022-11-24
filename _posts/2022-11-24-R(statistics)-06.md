@@ -1,7 +1,7 @@
 ---
 title: 06. Statistics
 Author: YoungHoon Ko
-date: 2022-11-23 12:33:00 +0900
+date: 2022-11-24 12:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
 tags: [r, statistics]
 image: /assets/img/마력과 연비에 대한 회귀분석 표.png
