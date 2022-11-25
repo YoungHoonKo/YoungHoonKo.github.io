@@ -1,8 +1,8 @@
 ---
-title: 01. C Programming
+title: 01. C-Programming
 Author: YoungHoon Ko
 date: 2022-11-25 08:50:32 +0900
-categories: [University(2022-Second-Semester), C Programming]
+categories: [University(2022-Second-Semester), C-Programming]
 tags: [c, c_programming]
 ---
 
