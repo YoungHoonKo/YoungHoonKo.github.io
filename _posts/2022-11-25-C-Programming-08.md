@@ -99,7 +99,7 @@ int search(char str[])
 ### 3번 문제
 
 ```markdown
-문자열을 비교하는 함수 int compare(char str1[], char str2[])을 작성하시오.
+문자열을 비교하는 함수 int compare(char str1[], char str2[])을 작성하시오.<br>
 문자열 str1과 str2를 비교해서 일치하면 1, 그렇지 않으면 -1을 반환한다.
 ```
 
@@ -286,7 +286,7 @@ int compare(char *str1, char *str2)
 ### 5번 문제
 
 ```markdown
-표준 라이브러리 <ctype>의 영문자를 대문자로 변환하는 toupper() 함수,
+표준 라이브러리 <ctype>의 영문자를 대문자로 변환하는 toupper() 함수,<br>
 소문자로 변환하는 tolower() 함수를 검사해서 변환하는 코드를 작성하시오.
 ```
 
