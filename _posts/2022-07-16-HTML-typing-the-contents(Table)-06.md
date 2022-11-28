@@ -1,5 +1,5 @@
 ---
-title: 06. HTML
+title: 06. HTML-typing the contents(Table)
 Author: YoungHoon Ko
 date: 2022-07-16 18:49:20 +0900
 categories: [HTML, HTML-Study]

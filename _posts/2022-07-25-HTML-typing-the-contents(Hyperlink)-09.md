@@ -1,5 +1,5 @@
 ---
-title: 09. HTML
+title: 09. HTML-typing the contents(Hyperlink)
 Author: YoungHoon Ko
 date: 2022-07-25 16:14:38 +0900
 categories: [HTML, HTML-Study]

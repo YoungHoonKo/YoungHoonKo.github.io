@@ -1,5 +1,5 @@
 ---
-title: 04. HTML
+title: 04. HTML-typing the contents(Text)
 Author: YoungHoon Ko
 date: 2022-07-14 10:23:00 +0900
 categories: [HTML, HTML-Study]

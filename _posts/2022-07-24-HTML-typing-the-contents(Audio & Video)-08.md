@@ -1,5 +1,5 @@
 ---
-title: 08. HTML
+title: 08. HTML-typing the contents(Audio & Video)
 Author: YoungHoon Ko
 date: 2022-07-24 13:14:38 +0900
 categories: [HTML, HTML-Study]

@@ -1,5 +1,5 @@
 ---
-title: 07. HTML
+title: 07. HTML-typing the contents(Image)
 Author: YoungHoon Ko
 date: 2022-07-17 20:45:38 +0900
 categories: [HTML, HTML-Study]

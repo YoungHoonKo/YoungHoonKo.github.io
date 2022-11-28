@@ -1,5 +1,5 @@
 ---
-title: 05. HTML
+title: 05. HTML-typing the contents(List)
 Author: YoungHoon Ko
 date: 2022-07-15 16:07:00 +0900
 categories: [HTML, HTML-Study]

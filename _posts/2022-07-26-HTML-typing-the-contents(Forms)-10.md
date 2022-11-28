@@ -1,5 +1,5 @@
 ---
-title: 10. HTML
+title: 10. HTML-typing the contents(Forms)
 Author: YoungHoon Ko
 date: 2022-07-26 16:04:38 +0900
 categories: [HTML, HTML-Study]
