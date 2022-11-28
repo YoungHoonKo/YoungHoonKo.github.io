@@ -1,5 +1,5 @@
 ---
-title: 05. Python-Programming(Introduction)
+title: 05. Python-Programming(Introduction)(Classifying strings, Tkinter Basic)
 Author: YoungHoon Ko
 date: 2022-11-05 15:45:45 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]

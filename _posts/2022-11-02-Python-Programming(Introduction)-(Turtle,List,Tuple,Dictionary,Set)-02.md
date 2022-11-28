@@ -1,5 +1,5 @@
 ---
-title: 02. Python-Programming(Introduction)
+title: 02. Python-Programming(Introduction)(Turtle, List, Tuple, Dictionary, Set)
 Author: YoungHoon Ko
 date: 2022-11-02 13:50:09 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]
@@ -11,7 +11,7 @@ image: /assets/img/t-pic.png
 
 # 파이썬(입문) 과제2
 
-## 리스트
+## Turtle
 
 ### 거북이로 무작위 방향으로 그림을 그리는 UI 구현
 
@@ -57,6 +57,8 @@ if __name__ == "__main__":
 <img src="/assets/img/t-pic.png" alt="이미지" style="zoom:30%;" />
 
 
+
+## 리스트
 
 ### 리스트 내포
 

@@ -1,5 +1,5 @@
 ---
-title: 01. Python-Programming(Introduction)
+title: 01. Python-Programming(Introduction)(rock paper scissors & up&down game)
 Author: YoungHoon Ko
 date: 2022-11-01 13:45:23 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]

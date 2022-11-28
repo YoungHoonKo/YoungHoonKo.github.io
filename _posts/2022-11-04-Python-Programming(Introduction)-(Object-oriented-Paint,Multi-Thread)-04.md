@@ -1,5 +1,5 @@
 ---
-title: 04. Python-Programming(Introduction)
+title: 04. Python-Programming(Introduction)(Object-oriented Paint, Multi Thread)
 Author: YoungHoon Ko
 date: 2022-11-04 14:40:11 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]

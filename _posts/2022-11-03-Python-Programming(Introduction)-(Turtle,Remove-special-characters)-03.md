@@ -1,5 +1,5 @@
 ---
-title: 03. Python-Programming(Introduction)
+title: 03. Python-Programming(Introduction)(Turtle, Remove special characters)
 Author: YoungHoon Ko
 date: 2022-11-03 14:15:34 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]
