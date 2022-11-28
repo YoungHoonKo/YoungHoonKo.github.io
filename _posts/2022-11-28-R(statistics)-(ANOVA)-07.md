@@ -4,7 +4,7 @@ Author: YoungHoon Ko
 date: 2022-11-28 15:07:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
 tags: [r, statistics]
-image: /assets/img/분산분석 보고서.png
+image: /assets/img/분산분석.png
 ---
 
 [toc]
@@ -23,7 +23,7 @@ R의 OrchardSprays는 8가지 농도(A>B>...>H)의 석회황유화액(lime surph
 또한 던컨의 다중비교법을 이용하여, 어떤 농도에서 줄어든 자당 용액의 양이 다른지 살펴보자. 유의수준 0.0.5 를 사용한다.
 ```
 
-<img src="/assets/img/분산분석 보고서.png" alt="분산분석 보고서" style="zoom:50%;" />
+<img src="/assets/img/분산분석.png" alt="분산분석 보고서" style="zoom:50%;" />
 
 ## 표1
 
