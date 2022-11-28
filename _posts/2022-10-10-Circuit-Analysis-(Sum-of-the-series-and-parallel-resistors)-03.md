@@ -8,9 +8,11 @@ tags: [circuit_analysis, python]
 
 [toc]
 
-## 2022-10-10 회로이론 세 번째 과제
+## 2022-10-10 회로이론 과제
 
 ### 파이썬으로 직렬-병렬 저항의 합 구하는 코드 구현
+
+#### 코드
 
 ```python
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
@@ -178,6 +180,30 @@ print("%s, the equivalent register value of the circuit is %0.1f Ω" % (ID, Rsum
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
 ```
+
+
+
+#### 결과
+
+```python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What is your Student ID? abcdef
+Are Registers between Node A and B connected Series or Parallel (S/P)? S
+How many registers are connected in Series? 2
+Please, type the values of registers: 10, 20
+Are Registers between Node B and C connected Series or Parallel (S/P)? P
+How many registers are connected in Parallel? 3
+Please, type the values of registers: 10, 20, 30
+Are Registers between Node C and D connected Series or Parallel (S/P)? P
+How many registers are connected in Parallel? 3
+Please, type the values of registers: 10, 20, 30
+
+
+abcdef, the equivalent register value of the circuit is 40.9 Ω
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+
 
 
 

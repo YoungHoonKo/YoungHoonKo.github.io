@@ -12,6 +12,8 @@ tags: [circuit_analysis, python]
 
 ### 파이썬으로 학번, 이름, 입학년도, 휴학 여부 입력 받아서 한 문장으로 출력하기
 
+#### 코드
+
 ```python
 a = input('What is your name? ')
 b = input('What is your Student ID? ')
@@ -41,5 +43,15 @@ elif d == 'N':
 
 
 
+#### 결과
 
+```python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What is your name? YoungHoon Ko
+What is your Student ID? abcdef
+When did you enroll the University? 2022
+Are you taking a break from school? N
+YoungHoon Ko, (abcdef), you are 1st year student in this year, aren’t you? You may graduate on February 2026 year.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 

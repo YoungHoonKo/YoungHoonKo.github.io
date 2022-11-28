@@ -12,6 +12,8 @@ tags: [circuit_analysis, python]
 
 ### 파이썬으로 P = VI 공식을 이용하여 0이 입력된 값을 구하기
 
+#### 코드
+
 - I, V, P, Direction of I 를 입력하면 됨
 
 ```python
@@ -45,3 +47,15 @@ if p == 0:
         print("The unknown Power of the node is %0.1f W" % p)
 
 ```
+
+
+
+#### 결과
+
+```python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type I, V, P, Direction of I ? 5 0 -20 +
+The unknown Voltage of the node is -4.0 V
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
