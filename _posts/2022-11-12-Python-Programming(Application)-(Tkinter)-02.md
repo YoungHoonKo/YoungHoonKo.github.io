@@ -1,5 +1,5 @@
 ---
-title: 02. Python-Programming(Application)
+title: 02. Python-Programming(Application)(Tkinter)
 Author: YoungHoon Ko
 date: 2022-11-12 00:20:00 +0900
 categories: [University(2022-Second-Semester), Python-Programming(Application)]
