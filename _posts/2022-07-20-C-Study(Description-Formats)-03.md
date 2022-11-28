@@ -1,5 +1,5 @@
 ---
-title: 03. C Language
+title: 03. C Language(Description Formats)
 Author: YoungHoon Ko
 date: 2022-07-20 16:45:00 +0900
 categories: [C, C-Study]

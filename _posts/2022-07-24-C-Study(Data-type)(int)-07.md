@@ -1,5 +1,5 @@
 ---
-title: 07. C Language
+title: 07. C Language(Data-type)(int)
 Author: YoungHoon Ko
 date: 2022-07-24 20:59:00 +0900
 categories: [C, C-Study]
@@ -9,7 +9,7 @@ image: /assets/img/CleanShot 2022-08-17 at 20.56.00@2x.png
 
 [toc]
 
-# Types of data type
+# Data type
 
 ## 1. Why do we need data types?
 

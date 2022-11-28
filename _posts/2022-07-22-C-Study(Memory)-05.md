@@ -1,5 +1,5 @@
 ---
-title: 05. C Language
+title: 05. C Language(Memory)
 Author: YoungHoon Ko
 date: 2022-07-22 17:33:00 +0900
 categories: [C, C-Study]
@@ -9,9 +9,11 @@ image: /assets/img/
 
 [toc]
 
-# Data type(자료형)
+# Memory
 
-## Memory(데이터(자료)를 저장하는 공간, 메모리)
+## What is Memory?
+
+- 데이터(자료)를 저장하는 공간
 
 > "컴퓨터는 어떻게 데이터를 기억하나요??"
 

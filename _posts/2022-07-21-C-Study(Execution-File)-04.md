@@ -1,5 +1,5 @@
 ---
-title: 04. C Language
+title: 04. C Language(Execution File)
 Author: YoungHoon Ko
 date: 2022-07-21 18:20:00 +0900
 categories: [C, C-Study]

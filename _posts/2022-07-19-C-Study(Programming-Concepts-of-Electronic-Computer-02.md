@@ -1,5 +1,5 @@
 ---
-title: 02. C Language
+title: 02. C Language(Programming Concepts of Electronic Computer)
 Author: YoungHoon Ko
 date: 2022-07-19 20:58:00 +0900
 categories: [C, C-Study]

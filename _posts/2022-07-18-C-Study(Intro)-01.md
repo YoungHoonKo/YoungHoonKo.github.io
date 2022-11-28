@@ -1,5 +1,5 @@
 ---
-title: 01. C Language
+title: 01. C Language(Intro)
 Author: YoungHoon Ko
 date: 2022-07-18 16:33:00 +0900
 categories: [C, C-Study]
