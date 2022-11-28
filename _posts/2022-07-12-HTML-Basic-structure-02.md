@@ -1,5 +1,5 @@
 ---
-title: 02. HTML
+title: 02. HTML-Basic structure
 Author: YoungHoon Ko
 date: 2022-07-12 12:45:00 +0900
 categories: [HTML, HTML-Study]

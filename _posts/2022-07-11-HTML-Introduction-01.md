@@ -1,5 +1,5 @@
 ---
-title: 01. HTML
+title: 01. HTML-Introduction
 Author: YoungHoon Ko
 date: 2022-07-11 16:33:00 +0900
 categories: [HTML, HTML-Study]
@@ -51,4 +51,3 @@ image: /assets/img/screenshot/개발자 툴.png
 ![이미지](/assets/img/screenshot/개발자 툴.png)
 
 - 위의 코드처럼 **태그**를 사용해 웹 브라우저(크롬, 사파리)가 뭐가 뭔지 알 수 있게 함
-

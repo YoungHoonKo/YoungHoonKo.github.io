@@ -1,5 +1,5 @@
 ---
-title: 03. HTML
+title: 03. HTML-Semantic tags
 Author: YoungHoon Ko
 date: 2022-07-13 11:00:00 +0900
 categories: [HTML, HTML-Study]
