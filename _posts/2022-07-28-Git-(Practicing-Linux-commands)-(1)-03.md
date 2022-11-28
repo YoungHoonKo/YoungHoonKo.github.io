@@ -1,7 +1,7 @@
 ---
-title: 03. Git
+title: 03. Git(Practicing Linux commands)(1)
 Author: YoungHoon Ko
-date: 2022-07-27 17:22:38 +0900
+date: 2022-07-28 17:22:38 +0900
 categories: [Git, Git-Study]
 tags: [git, terminal, github]
 ---

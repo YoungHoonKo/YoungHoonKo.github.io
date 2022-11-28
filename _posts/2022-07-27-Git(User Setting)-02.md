@@ -1,5 +1,5 @@
 ---
-title: 02. Git
+title: 02. Git(User Setting)
 Author: YoungHoon Ko
 date: 2022-07-27 16:12:38 +0900
 categories: [Git, Git-Study]
