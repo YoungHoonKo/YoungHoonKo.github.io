@@ -1,5 +1,5 @@
 ---
-title: 06. Python-Programming(Introduction)
+title: 06. Python-Programming(Introduction)(Vending machine programming)
 Author: YoungHoon Ko
 date: 2022-11-23 16:31:45 +0900
 categories: [University(2022-First-Semester), Python-Programming(Introduction)]
