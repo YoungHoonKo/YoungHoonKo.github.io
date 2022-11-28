@@ -1,7 +1,7 @@
 ---
-title: 08. C-Programming
+title: 08. C-Programming(Convert the pointer of a common code)
 Author: YoungHoon Ko
-date: 2022-11-28 01:34:32 +0900
+date: 2022-11-27 01:34:32 +0900
 categories: [University(2022-Second-Semester), C-Programming]
 tags: [c, c_programming]
 ---

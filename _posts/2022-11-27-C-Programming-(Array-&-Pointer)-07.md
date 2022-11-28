@@ -1,7 +1,7 @@
 ---
-title: 07. C-Programming
+title: 07. C-Programming(Array & Pointer)
 Author: YoungHoon Ko
-date: 2022-11-26 15:34:32 +0900
+date: 2022-11-27 15:34:32 +0900
 categories: [University(2022-Second-Semester), C-Programming]
 tags: [c, c_programming]
 ---

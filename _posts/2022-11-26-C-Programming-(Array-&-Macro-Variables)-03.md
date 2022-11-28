@@ -1,7 +1,7 @@
 ---
-title: 03. C-Programming
+title: 03. C-Programming(Array & Macro Variables)
 Author: YoungHoon Ko
-date: 2022-11-25 10:34:32 +0900
+date: 2022-11-26 10:34:32 +0900
 categories: [University(2022-Second-Semester), C-Programming]
 tags: [c, c_programming]
 ---

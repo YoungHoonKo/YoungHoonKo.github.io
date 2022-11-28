@@ -1,5 +1,5 @@
 ---
-title: 02. C-Programming
+title: 02. C-Programming(Repeating sentence)
 Author: YoungHoon Ko
 date: 2022-11-25 09:55:32 +0900
 categories: [University(2022-Second-Semester), C-Programming]

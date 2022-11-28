@@ -1,5 +1,5 @@
 ---
-title: 04. C-Programming
+title: 04. C-Programming(Function)
 Author: YoungHoon Ko
 date: 2022-11-26 15:34:32 +0900
 categories: [University(2022-Second-Semester), C-Programming]
