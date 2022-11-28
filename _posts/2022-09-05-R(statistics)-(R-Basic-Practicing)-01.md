@@ -1,5 +1,5 @@
 ---
-title: 01. Statistics
+title: 01. Statistics(R Basic Practicing)
 Author: YoungHoon Ko
 date: 2022-09-05 16:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]

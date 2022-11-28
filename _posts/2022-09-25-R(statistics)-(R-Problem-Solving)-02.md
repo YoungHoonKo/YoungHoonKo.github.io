@@ -1,5 +1,5 @@
 ---
-title: 02. Statistics
+title: 02. Statistics(R Problem Solving)
 Author: YoungHoon Ko
 date: 2022-09-25 16:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
@@ -8,7 +8,7 @@ tags: [r, statistics]
 
 [toc]
 
-# 2022-09-25 통계학 두 번째 과제
+# 2022-09-25 통계학 과제
 
 ## 2장 3번, 3장 8, 9, 10번 문제 풀이
 

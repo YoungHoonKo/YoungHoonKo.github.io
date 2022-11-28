@@ -1,5 +1,5 @@
 ---
-title: 06-2. Statistics
+title: 06-2. Statistics(Regression analysis)(Illiteracy rate & lifespan)
 Author: YoungHoon Ko
 date: 2022-11-24 13:07:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
@@ -9,7 +9,9 @@ image: /assets/img/문맹률과 기대수명에 대한 회귀분석표.png
 
 [toc]
 
-## 문맹률이 수명에 미치는 영향에 관한 보고서와 문제 풀이
+# 2022-11-28 통계학 과제
+
+## 문맹률이 수명에 미치는 영향에 관한 회귀분석 보고서와 문제 풀이
 
 ### 보고서
 

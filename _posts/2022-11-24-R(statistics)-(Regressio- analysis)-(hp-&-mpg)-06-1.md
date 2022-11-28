@@ -1,5 +1,5 @@
 ---
-title: 06-1. Statistics
+title: 06-1. Statistics(Regression analysis)(hp & mpg)
 Author: YoungHoon Ko
 date: 2022-11-24 12:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
@@ -9,6 +9,8 @@ image: /assets/img/mfrow.png
 ---
 
 [toc]
+
+# 2022-11-24 통계학 과제
 
 ## 마력과 연비에 대한 회귀분석
 

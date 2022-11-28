@@ -1,5 +1,5 @@
 ---
-title: 04. Statistics
+title: 04. Statistics(One sample t-test report)
 Author: YoungHoon Ko
 date: 2022-11-11 23:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
@@ -9,6 +9,8 @@ image: /assets/img/QQ-line.png
 ---
 
 [toc]
+
+# 2022-11-11 통계학 과제
 
 ## 일표본 t-검정 보고서
 

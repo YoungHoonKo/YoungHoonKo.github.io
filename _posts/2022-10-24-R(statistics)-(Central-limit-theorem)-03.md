@@ -1,5 +1,5 @@
 ---
-title: 03. Statistics
+title: 03. Statistics(Central limit theorem)
 Author: YoungHoon Ko
 date: 2022-10-24 11:33:00 +0900
 categories: [University(2022-Second-Semester), Statistics]
@@ -11,9 +11,9 @@ image: /assets/img/limit30.png
 
 [toc]
 
-# 2022-10-24 통계학 세 번째 과제
+# 2022-10-24 통계학 과제
 
-## 중심극한 정리 B(3, 1/6)의 표본평균의 분포
+## 중심극한정리 B(3, 1/6)의 표본평균의 분포
 
 ### n = 3개
 
