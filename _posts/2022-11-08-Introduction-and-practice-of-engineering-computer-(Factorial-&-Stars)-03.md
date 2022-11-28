@@ -1,5 +1,5 @@
 ---
-title: 03. Introduction and practice of engineering computer
+title: 03. Introduction and practice of engineering computer(Factorial & Stars)
 Author: YoungHoon Ko
 date: 2022-11-08 09:00:00 +0900
 categories: [University(2022-First-Semester), Introduction and practice of engineering computer]

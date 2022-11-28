@@ -1,5 +1,5 @@
 ---
-title: 04. Introduction and practice of engineering computer
+title: 04. Introduction and practice of engineering computer(Array & Swap)
 Author: YoungHoon Ko
 date: 2022-11-09 13:30:00 +0900
 categories: [University(2022-First-Semester), Introduction and practice of engineering computer]
@@ -169,27 +169,6 @@ int main(void) {
         }
     }
     printf("가장 많이 생성된 수 = %d\n", temp);
-    
-    return 0;
-}
-```
-
-
-
-## 포인터 실습
-
-```c
-#include <stdio.h>
-
-int main(void){
-    int number = 10;
-    int *p;
-    
-    p = &number;
-    printf("변수 number의 값 = %d\n", number);
-    
-    *p = 20;
-    printf("변수 number의 값 = %d\n", number);
     
     return 0;
 }

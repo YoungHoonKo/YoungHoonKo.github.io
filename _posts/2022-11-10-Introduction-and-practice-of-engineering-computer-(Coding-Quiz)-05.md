@@ -1,5 +1,5 @@
 ---
-title: 05. Introduction and practice of engineering computer
+title: 05. Introduction and practice of engineering computer(Coding Quiz)
 Author: YoungHoon Ko
 date: 2022-11-10 12:45:00 +0900
 categories: [University(2022-First-Semester), Introduction and practice of engineering computer]

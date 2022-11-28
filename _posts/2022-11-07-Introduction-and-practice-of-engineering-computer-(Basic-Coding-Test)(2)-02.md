@@ -1,5 +1,5 @@
 ---
-title: 02. Introduction and practice of engineering computer
+title: 02. Introduction and practice of engineering computer(Basic Coding Test)(2)
 Author: YoungHoon Ko
 date: 2022-11-07 03:12:00 +0900
 categories: [University(2022-First-Semester), Introduction and practice of engineering computer]
