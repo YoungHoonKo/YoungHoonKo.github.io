@@ -25,6 +25,8 @@ R의 OrchardSprays는 8가지 농도(A>B>...>H)의 석회황유화액(lime surph
 
 <img src="/assets/img/분산분석.png" alt="분산분석 보고서" style="zoom:50%;" />
 
+
+
 ## 표1
 
 - 표1. 석회황 농도별 자당 감소액의 기술통계
