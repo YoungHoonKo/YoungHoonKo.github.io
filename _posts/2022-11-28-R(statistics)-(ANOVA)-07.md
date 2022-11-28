@@ -13,7 +13,7 @@ image: /assets/img/분산분석 보고서.png
 
 ## 석회황이 벌에게 미치는 효과 분산분석 보고서
 
-## 정보
+## 정보분산분석 보고서
 
 ```markdown
 R의 OrchardSprays는 8가지 농도(A>B>...>H)의 석회황유화액(lime surphur emulsion)을 자당 용액(sucrose solution)에 섞은 후, 농도별로 8 개의 벌 방에 발랐다.<br>
