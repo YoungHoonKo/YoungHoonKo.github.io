@@ -1,5 +1,5 @@
 ---
-title: 02. Circuit Analysis
+title: 02. Circuit Analysis(Ohm's Law, P = VI)
 Author: YoungHoon Ko
 date: 2022-09-28 16:55:00 +0900
 categories: [University(2022-Second-Semester), Circuit Analysis]
@@ -8,7 +8,7 @@ tags: [circuit_analysis, python]
 
 [toc]
 
-## 2022-09-27 회로이론 두 번째 과제
+## 2022-09-27 회로이론 과제
 
 ### 파이썬으로 P = VI 공식을 이용하여 0이 입력된 값을 구하기
 

@@ -1,5 +1,5 @@
 ---
-title: 01. Circuit Analysis
+title: 01. Circuit Analysis(Basic Input/Output)
 Author: YoungHoon Ko
 date: 2022-09-13 16:33:00 +0900
 categories: [University(2022-Second-Semester), Circuit Analysis]
@@ -8,7 +8,7 @@ tags: [circuit_analysis, python]
 
 [toc]
 
-## 2022-09-13 회로이론 첫 번째 과제
+## 2022-09-13 회로이론 과제
 
 ### 파이썬으로 학번, 이름, 입학년도, 휴학 여부 입력 받아서 한 문장으로 출력하기
 

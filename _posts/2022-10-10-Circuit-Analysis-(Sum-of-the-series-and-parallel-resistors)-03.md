@@ -1,5 +1,5 @@
 ---
-title: 03. Circuit Analysis
+title: 03. Circuit Analysis(Sum of the series and parallel resistors)
 Author: YoungHoon Ko
 date: 2022-10-10 17:45:00 +0900
 categories: [University(2022-Second-Semester), Circuit Analysis]
