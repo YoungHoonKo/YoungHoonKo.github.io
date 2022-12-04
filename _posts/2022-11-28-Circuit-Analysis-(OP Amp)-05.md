@@ -38,27 +38,21 @@ def Voltage(Rnum):
 
     return Volt_val, Volt_src
 
-def res(Rnum, Rval, Vval):
+def res(Rnum, Rval, Vval, Vsrc):
     res_val = 0
     for i in range(Rnum):
         if Rval[i] == 0:
             raise("0으로 나눴습니다.")
         else:
-            res_val += (Rf/Rval[i]) * Vval[i]
-
-    return -res_val
+            res_val += (Rf*(Vval[i] - Vsrc)/Rval[i])
+    return -res_val + Vsrc
 
 # main
 print("~"*36)
 Rval, Rnum = Register()
-Vval, Vnum = Voltage(Rnum)
-print("The output voltage is %.1f" %res(Rnum, Rval, Vval))
+Vval, Vsrc = Voltage(Rnum)
+print("The output voltage is %.1f" %res(Rnum, Rval, Vval, Vsrc))
 print("~"*54)
-
-#print(Rval)
-#print(Rnum)
-#print(Vval)
-#print(Vnum)
 ```
 
 
@@ -72,6 +66,16 @@ Type the values of the input Registers? 1000 1000 1000
 Type the values of the input Voltages? 2 2 2
 Type the value of the voltage source ? 0
 The output voltage is -6.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+```python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+how many Input Registers In a circuit 3
+Type the values of the input Registers? 100 200 300
+Type the values of the input Voltages? 1 2 3
+Type the value of the voltage source ? 1
+The output voltage is -10.7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
