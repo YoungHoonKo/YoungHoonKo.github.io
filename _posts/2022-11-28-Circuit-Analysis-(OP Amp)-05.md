@@ -78,4 +78,3 @@ Type the value of the voltage source ? 1
 The output voltage is -10.7
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
-
