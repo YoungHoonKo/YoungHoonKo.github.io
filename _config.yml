@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: YoungHoon                              # the main title
 
-tagline: VENI, VIDI, VICI # it will display as the sub-title
+tagline: VENI, VIDI, VICI  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
 
