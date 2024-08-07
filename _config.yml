@@ -197,3 +197,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    
+html-proofer:
+  url_ignore: # 특정 URL을 무시할 수 있습니다.
+    - /nonexistent-page.html
+  file_ignore: # 특정 파일을 무시할 수 있습니다.
+    - /path/to/file.html
+  log_level: :error # 로그 레벨을 설정할 수 있습니다. :error, :warn, :info
