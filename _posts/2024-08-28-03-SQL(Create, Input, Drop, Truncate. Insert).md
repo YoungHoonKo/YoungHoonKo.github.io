@@ -154,7 +154,7 @@ insert into test_schema.test_table (id, input_data) values
 
 # Summary
 
-- 스키마는 무나 데이터의 **<u>영역별로 구분되는 개념</u>**
+- 스키마는 뷰나 데이터의 **<u>영역별로 구분되는 개념</u>**
 - 테이블은 데이터가 물리적으로 저장되는 **<u>단위</u>**
 - create : 테이블 혹은 스키마를 생성하는 명령어
 - input : 테이블에 데이터를 입력하는 명령어
