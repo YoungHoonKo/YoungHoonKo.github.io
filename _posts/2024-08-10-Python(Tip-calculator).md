@@ -2,7 +2,7 @@
 title: 01. Python(Tip-calculator)
 Author: YoungHoon Ko
 date: 2024-08-09 00:45:00 +0900
-categories: [Python, Practice]
+categories: [Python, Practice_Python]
 tags: [python, python_p]
 ---
 

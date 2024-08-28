@@ -2,8 +2,8 @@
 title: 03. SQL(Create, Input, Drop, Truncate. Insert)
 Author: YoungHoon Ko
 date: 2024-08-28 11:45:00 +0900
-categories: [SQL, Practice]
-tags: [sql, basic, sql_p]
+categories: [SQL, Practice_SQL]
+tags: [sql, basic]
 image: /assets/img/create_table.jpg
 image: /assets/img/input_data.jpg
 image: /assets/img/test_table2.jpg

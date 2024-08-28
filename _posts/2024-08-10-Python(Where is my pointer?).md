@@ -2,7 +2,7 @@
 title: 02. Python(Wher is my pointer?)
 Author: YoungHoon Ko
 date: 2024-08-10 22:45:00 +0900
-categories: [Python, Practice]
+categories: [Python, Practice_Python]
 tags: [python, python_p]
 image: /assets/img/before_click.jpg
 image: /assets/img/after_click.jpg

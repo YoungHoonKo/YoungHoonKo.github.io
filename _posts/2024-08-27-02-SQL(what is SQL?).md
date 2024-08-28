@@ -2,8 +2,8 @@
 title: 02. SQL(What is SQL?)
 Author: YoungHoon Ko
 date: 2024-08-27 09:50:00 +0900
-categories: [SQL, Practice]
-tags: [sql, basic, sql_p]
+categories: [SQL, Practice_SQL]
+tags: [sql, basic]
 ---
 [toc]
 
