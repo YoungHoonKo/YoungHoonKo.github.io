@@ -3,7 +3,7 @@
 title: 04. SQL(select절의 활용, 표현식과 별칭, 연결 연산자(concat()))
 Author: YoungHoon Ko
 date: 2024-08-29 12:50:00 +0900
-categories: [SQL, Practice]
+categories: [SQL, Practice_SQL]
 tags: [sql, basic, sql_p]
 image: /assets/img/select_1.jpg
 image: /assets/img/select_2.jpg
