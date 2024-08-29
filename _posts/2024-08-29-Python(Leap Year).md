@@ -1,7 +1,7 @@
 ---
 title: 03. Python(Leap Year)
 Author: YoungHoon Ko
-date: 2024-08-29 22:45:00 +0900
+date: 2024-08-29 19:45:00 +0900
 categories: [Python, Practice_Python]
 tags: [python, python_p]
 ---
