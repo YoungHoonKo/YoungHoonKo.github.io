@@ -27,10 +27,12 @@ image: /assets/img/insert.jpg
 - 테이블이 모여서 하나의 스키마, 또는 데이터베이스가 되며 다른 오브젝트들의 원천이 됨
 - 모든 객체나 오브젝트는 테이블을 기반으로 관리 됨
 
-# Creat, Input
+---
 
-- create : 테이블 혹은 스키마를 생성하는 명령어
-- input : 테이블에 데이터를 입력하는 명령어
+# Creat, Insert
+
+- Create : 테이블 혹은 스키마를 생성하는 명령어
+- Insert : 테이블에 데이터를 입력하는 명령어
 
 ```sql
 -- Create 실습;
@@ -61,7 +63,7 @@ insert into test_schema.test_table values
 
 ![](/assets/img/create_table.jpg)
 
-- test_table에 input을 사용해 데이터를 입력함
+- test_table에 insert를 사용해 데이터를 입력함
 
 ![](/assets/img/input_data.jpg)
 
@@ -97,7 +99,7 @@ from test_schema.test_table3;
 
 ![](/assets/img/test_table3.jpg)
 
-
+---
 
 # Drop, Truncate
 
@@ -126,9 +128,11 @@ from test_schema.test_table2;
 
 
 
+---
+
 # Insert
 
-- 이미 존재하는 테이블에 새롭게 데이터를 추가할 때 사용하는 명령어
+- Insert문 사용법
 
 ```sql
 -- insert 실습;
@@ -151,6 +155,8 @@ insert into test_schema.test_table (id, input_data) values
 ```
 
 ![](/assets/img/insert.jpg)
+
+---
 
 # Summary
 
