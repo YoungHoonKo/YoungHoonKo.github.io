@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YoungHoon                              # the main title
+title: Dr.Hunt                              # the main title
 
 tagline: VENI, VIDI, VICI  # it will display as the sub-title
 
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/YoungHoonKo     # change to your github homepage
-    - https://www.instagram.com/6_.younghoon._1/?hl=ko      # change to your twitter homepage
+    # - https://www.instagram.com/6_.younghoon._1/?hl=ko      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
