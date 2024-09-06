@@ -1,6 +1,6 @@
 ---
 
-title: 10. SQL(Practice
+title: 10. SQL(Practice)
 Author: YoungHoon Ko
 date: 2024-09-05 12:50:00 +0900
 categories: [SQL, Practice_SQL]
