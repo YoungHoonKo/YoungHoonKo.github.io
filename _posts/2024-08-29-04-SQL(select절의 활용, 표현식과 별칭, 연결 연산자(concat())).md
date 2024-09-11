@@ -90,6 +90,8 @@ AND CUSTOMERNAME LIKE 'A%';
 
 ![](/assets/img/select_3.jpg)
 
+---
+
 # 표현식과 별칭
 
 - **<u>데이터베이스에 없는 숫자나 문자를 표현하는 것</u>**
@@ -119,6 +121,8 @@ AND CUSTOMERNAME LIKE 'A%';
 
 ![](/assets/img/select_5.jpg)
 
+---
+
 # 연결 연산자(CONCAT())
 
 - 연결연산자 concat함수로 **<u>문자열을 결합</u>**할 수 있다
@@ -133,9 +137,11 @@ AND CUSTOMERNAME LIKE 'A%';
 
 ![](/assets/img/select_6.jpg)
 
+---
+
 # Summary
 
 - select절은 출력하는 데이터의 컬럼을 컨트롤 한다
-- 출력되는 rows(옆에 있는 거 )는 where절을 통해서 컨트롤할 수 있음
-- 표현식을 통해 저장되어 있는 않은 데이터를 활용할 수 있으며, 별칭으로 원하는 컬럼명으 부여 할 수 있음
+- 출력되는 rows(세로)는 where절을 통해서 컨트롤할 수 있음
+- 표현식을 통해 저장되어 있는 않은 데이터를 활용할 수 있으며, 별칭으로 원하는 컬럼명을 부여 할 수 있음
 - 연결 연산자를 이용해서 데이터를 붙여서 출력할 수 있음
