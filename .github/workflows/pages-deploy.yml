@@ -49,8 +49,9 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      - name: Check if _site/ exists  
-        run: ls -l ./_site 
+      - name: Check if _site/ exists
+        run: ls -al _site || echo "🚨 _site directory is missing! Build failed."   
+  
 
       # - name: Test site
       #   run: bundle exec htmlproofer _site --disable-external --allow-missing-href --assume-extension --ignore-empty-mailto --url-ignore "/tags/terminal/,/posts/" --ignore-missing-hash-href
