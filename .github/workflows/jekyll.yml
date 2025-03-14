@@ -49,9 +49,7 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Check if _site/ exists  # ✅ 빌드 후 _site 폴더가 있는지 확인
-        run: ls -al _site 
-
+          
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
