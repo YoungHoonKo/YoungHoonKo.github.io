@@ -55,7 +55,8 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          name: github-pages  # ✅ 업로드할 아티팩트의 이름 지정
+          path: ./_site  # ✅ Jekyll 빌드 폴더 경로 명확하게 지정
 
   deploy:
     environment:
